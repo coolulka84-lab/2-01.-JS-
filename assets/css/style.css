@@ -1,0 +1,10 @@
+.userName {
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+  font-size: 52px;
+  font-weight: bolder;
+  color: red;
+  background-color: antiquewhite;
+  text-align: center;
+}
